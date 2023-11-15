@@ -1,0 +1,10 @@
+container
+db
+node_modules
+src
+test
+.env*
+*.md
+.gitignore
+bitbucket-pipelines.yml
+

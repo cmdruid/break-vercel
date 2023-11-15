@@ -1,0 +1,7 @@
+node_modules
+dist
+TODO.md
+NOTES.md
+.env*
+.vscode
+.vercel

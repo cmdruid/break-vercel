@@ -1,0 +1,9 @@
+{
+  "name": "break-vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@vercel/node": "^3.0.10"
+  }
+}
